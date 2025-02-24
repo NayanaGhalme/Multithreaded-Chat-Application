@@ -19,3 +19,5 @@ Description of task: This repository contains a multi-client chat application im
 This project demonstrates the fundamentals of network programming in Java, making use of TCP sockets for communication between the server and clients. It also employs multithreading to handle multiple clients simultaneously, ensuring a seamless chat experience.
 
 Output:
+
+![Image](https://github.com/user-attachments/assets/3f604497-1731-4402-899e-1f1b9ed50848)
